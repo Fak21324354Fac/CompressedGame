@@ -1,3 +1,1 @@
-SET mypath=%~dp0
-cd %mypath:~0,-1%
-"..\Love2D\love.exe" "Game"
+set cmd="D:Program Files 64 CardLife Creative Survival
